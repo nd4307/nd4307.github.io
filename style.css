@@ -30,7 +30,7 @@ a {
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color: indianred(159, 192, 128);
     text-decoration: none;
 }
 
@@ -46,7 +46,7 @@ img{
 
 .textbox {
     width:70%;
-    color: white;
+    color: lightcoral;
     font-size: 110%;
     background:gray;
     padding: 4px;
